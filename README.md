@@ -1,4 +1,4 @@
-### Hello there :joystick: 
+### Hello there 👋 
 
 - 🏙️ I am a full stack software engineer based in Sydney, Australia. My interests include retro gaming, vintage computers and low level programming. I also love learning about the underlying mathematical concepts in computer science. 
 - 🕹️ I make pixel art and it is one of my favourite visual media, I love how expressive it can get even though it is very restrictive in nature.
