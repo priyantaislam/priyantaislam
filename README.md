@@ -1,5 +1,10 @@
 ### Hello there :joystick: 
 
+- 🏙️ I am a full stack software engineer based in Sydney, Australia. My interests include retro gaming, vintage computers and low level programming. I also love learning about the underlying mathematical concepts in computer science. 
+- 🕹️ I make pixel art and it is one of my favourite visual media, I love how expressive it can get even though it is very restrictive in nature.
+- 🎸 I play guitar and bass, and some piano. I enjoy playing over-the-top, outrageous guitar solos. 
+
+
 <!--
 **priyantaislam/priyantaislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
